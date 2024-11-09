@@ -21,7 +21,7 @@ const Defile = () => {
                               scénographie, casting des mannequins, backstage, éclairage, sonorisation, vidéo...
                               </p>
                               <div className='mt-16 flex flex-col items-end justify-center mr-5'>
-                                    <Link href={""} className='bg-blue-400 text-white px-4 py-3'>
+                                    <Link href={"/devis"} className='bg-blue-400 text-white px-4 py-3'>
                                           Organiser un défilé de mode
                                     </Link>
                               </div>

@@ -17,7 +17,7 @@ const Chapiteau = () => {
                               Besoin d'installer un chapiteau pour accueillir vos invités ou d'aménager des lycras pour décorer votre espace ? Envie d'habiller un immeuble pour faire office d'écran géant afin de diffuser des vidéos ? IDJ Consulting vous propose le matériel adapté à votre problématique en tenant compte de l'aspect esthétique, d'une importance cruciale en événementiel.
                               </p>
                               <div className='mt-16 flex flex-col items-end justify-center mr-5'>
-                                    <Link href={""} className='bg-blue-400 text-white px-4 py-3'>
+                                    <Link href={"/devis"} className='bg-blue-400 text-white px-4 py-3'>
                                           Chapiteau et tente
                                     </Link>
                               </div>

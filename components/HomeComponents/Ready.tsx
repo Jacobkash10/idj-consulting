@@ -79,7 +79,7 @@ const Ready = () => {
                                     </div>
                               </div>
                               <div className='mt-16 flex flex-col items-end justify-center mr-5'>
-                                    <Link href={""} className='bg-gray-500 text-white px-4 py-3'>
+                                    <Link href={"/evenement"} className='bg-gray-500 text-white px-4 py-3'>
                                           Organiser mon événement
                                     </Link>
                               </div>

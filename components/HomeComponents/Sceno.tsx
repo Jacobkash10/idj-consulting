@@ -101,7 +101,7 @@ const Sceno = () => {
                   IDJ Consulting transforme tous vos espace et lieux pour organiser vos soirées et autres événements. 
                   Même les plus inadaptés ou innappropriés.
             </p>
-            <Link href={""} className='bg-gray-500 text-white px-4 py-3 text-sm md:text-base'>
+            <Link href={"/realisations"} className='bg-gray-500 text-white px-4 py-3 text-sm md:text-base'>
                   Découvrez nos transformations
             </Link>
       </div>

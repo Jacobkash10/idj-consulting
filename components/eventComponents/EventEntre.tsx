@@ -29,7 +29,7 @@ const EventEntre = () => {
                               matériels et dans leur implantation : sonorisation, éclairage, scène, vidéo, écrans LED...
                               </p>
                               <div className='mt-16 flex flex-col items-end justify-center mr-5'>
-                                    <Link href={""} className='bg-blue-400 text-white px-4 py-3'>
+                                    <Link href={"/devis"} className='bg-blue-400 text-white px-4 py-3'>
                                           Organiser un événement d'entreprise
                                     </Link>
                               </div>

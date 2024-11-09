@@ -41,7 +41,7 @@ const Real = () => {
                   </div>
             </div>
             <div className='mt-16 flex flex-col items-end justify-center'>
-                  <Link href={""} className='bg-blue-400 text-white px-4 py-3'>
+                  <Link href={"/realisations"} className='bg-blue-400 text-white px-4 py-3'>
                         Voir les réalisations de la catégorie scénographie
                   </Link>
             </div>

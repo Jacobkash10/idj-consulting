@@ -23,7 +23,7 @@ const Sonore = () => {
                               Chaque événement doit être sonorisé et éclairé ! Nos équipes tiennent compte du lieu, du type d'événement, du nombre d'invités pour créer une véritable ambiance autour de votre défilé, de votre soirée ou anniversaire d'entreprise !
                               </p>
                               <div className='mt-16 flex flex-col items-end justify-center mr-5'>
-                                    <Link href={""} className='bg-blue-400 text-white px-4 py-3'>
+                                    <Link href={"/devis"} className='bg-blue-400 text-white px-4 py-3'>
                                           Choisir sa sonorisation et son éclairage
                                     </Link>
                               </div>

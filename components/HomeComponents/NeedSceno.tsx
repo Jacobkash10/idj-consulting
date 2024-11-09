@@ -59,7 +59,7 @@ const NeedSceno = () => {
                                     </div>
                               </div>
                               <div className='mt-16 flex flex-col items-end justify-center mr-5'>
-                                    <Link href={""} className='bg-gray-500 text-white px-4 py-3'>
+                                    <Link href={"/scenographie"} className='bg-gray-500 text-white px-4 py-3'>
                                           Créer ma scénographie
                                     </Link>
                               </div>

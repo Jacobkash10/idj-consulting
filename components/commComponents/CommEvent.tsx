@@ -24,7 +24,7 @@ const CommEvent = () => {
                                     IDJ Consulting vous propose des communications avant, pendant et après vos événements : invitation, site web dédié, formulaire d'inscription, animation de vos réseaux sociaux, vidéo, programme, PLV signalétique et tous supports de communication.
                               </p>
                               <div className='mt-16 flex flex-col items-end justify-center mr-5'>
-                                    <Link href={""} className='bg-blue-400 text-white px-4 py-3'>
+                                    <Link href={"/devis"} className='bg-blue-400 text-white px-4 py-3'>
                                           Concevoir une communication événementielle
                                     </Link>
                               </div>

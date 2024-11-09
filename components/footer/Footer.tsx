@@ -56,7 +56,7 @@ const Footer = () => {
                         </div>
                   </Link>
                   <div className='mt-10'>
-                        <Link href={''} className='bg-slate-400 text-white py-2 px-4 text-[18px]'>
+                        <Link href={'/realisations'} className='bg-slate-400 text-white py-2 px-4 text-[18px]'>
                               Toutes nos réalisations
                         </Link>
                   </div>
