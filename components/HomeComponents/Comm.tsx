@@ -51,7 +51,7 @@ const Comm = () => {
                   </div>
             </div>
             <div className='relative'>
-                  <div className='bg-bg6 h-[400px] bg-cover bg-fixed absolute left-0 right-0 top-[70px] -z-10'></div>
+                  <div className='bg-bg6 h-[400px] bg-cover sm:bg-fixed absolute left-0 right-0 top-[70px] -z-10'></div>
             </div>
       </div>
   )

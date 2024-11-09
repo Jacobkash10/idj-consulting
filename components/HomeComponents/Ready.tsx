@@ -8,7 +8,7 @@ const Ready = () => {
             <div className='px-5 md:px-10 lg:px-20'>
                   <div className='bg-gray-200 shadow-[15px_15px_0px_0px_rgb(240,242,250)]'>
                         <div className='py-10'>
-                              <div className='flex flex-col items-center justify-center'>
+                              <div className='flex flex-col items-center justify-center px-3'>
                                     <h4 className='text-xl md:text-[27px] font-light'>
                                           Prêt à organiser votre <span className='text-slate-400 text-[22px] font-light'>événement ?</span> Lancez vous !
                                     </h4>
@@ -87,7 +87,7 @@ const Ready = () => {
                   </div>
             </div>
             <div className='relative'>
-                  <div className='bg-bg4 h-[400px] bg-cover bg-fixed absolute left-0 right-0 -top-[30px] -z-10'></div>
+                  <div className='bg-bg4 h-[400px] bg-cover sm:bg-fixed absolute left-0 right-0 -top-[30px] -z-10'></div>
             </div>
     </div>
   )
