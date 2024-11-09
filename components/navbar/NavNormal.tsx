@@ -34,7 +34,7 @@ const NavNormal = () => {
             },
             {
                   name: "Agence",
-                  path: ""
+                  path: "/agence"
             },
             {
                   name: "Témoignages",

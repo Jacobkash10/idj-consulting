@@ -43,11 +43,11 @@ const Banner = () => {
                               <h4 className='text-white text-base lg:text-xl'>Réalisons votre scénographie</h4>
                         </span>
                         <div className='absolute right-3 bottom-0'>
-                              <FaFacebook size={28} className='text-white mb-2 text-xl' />
-                              <FaTwitter size={28} className='text-white mb-2' />
-                              <FaLinkedin size={28} className='text-white mb-2' />
-                              <FaInstagram size={28} className='text-white mb-2' />
-                              <FaYoutube size={28} className='text-white' />
+                              <FaFacebook size={40} className='text-white mb-2 text-xl' />
+                              <FaTwitter size={40} className='text-white mb-2' />
+                              <FaLinkedin size={40} className='text-white mb-2' />
+                              <FaInstagram size={40} className='text-white mb-2' />
+                              <FaYoutube size={40} className='text-white' />
                         </div>
                   </div>
             </div>
@@ -62,11 +62,11 @@ const Banner = () => {
                               <h4 className='text-white text-base lg:text-xl'>Réalisons votre événement</h4>
                         </span>
                         <div className='absolute right-3 bottom-0'>
-                              <FaFacebook size={28} className='text-white mb-2 text-xl' />
-                              <FaTwitter size={28} className='text-white mb-2' />
-                              <FaLinkedin size={28} className='text-white mb-2' />
-                              <FaInstagram size={28} className='text-white mb-2' />
-                              <FaYoutube size={28} className='text-white' />
+                              <FaFacebook size={40} className='text-white mb-2 text-xl' />
+                              <FaTwitter size={40} className='text-white mb-2' />
+                              <FaLinkedin size={40} className='text-white mb-2' />
+                              <FaInstagram size={40} className='text-white mb-2' />
+                              <FaYoutube size={40} className='text-white' />
                         </div>
                   </div>
             </div>
@@ -81,11 +81,11 @@ const Banner = () => {
                               <h4 className='text-white text-base lg:text-xl'>Réalisons votre événement</h4>
                         </span>
                         <div className='absolute right-3 bottom-0'>
-                              <FaFacebook size={28} className='text-white mb-2 text-xl' />
-                              <FaTwitter size={28} className='text-white mb-2' />
-                              <FaLinkedin size={28} className='text-white mb-2' />
-                              <FaInstagram size={28} className='text-white mb-2' />
-                              <FaYoutube size={28} className='text-white' />
+                              <FaFacebook size={40} className='text-white mb-2 text-xl' />
+                              <FaTwitter size={40} className='text-white mb-2' />
+                              <FaLinkedin size={40} className='text-white mb-2' />
+                              <FaInstagram size={40} className='text-white mb-2' />
+                              <FaYoutube size={40} className='text-white' />
                         </div>
                   </div>
             </div>
