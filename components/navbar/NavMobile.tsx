@@ -26,7 +26,7 @@ const NavMobile = () => {
             },
             {
                   name: "Témoignages",
-                  path: ""
+                  path: "/temoignages"
             },
             {
                   name: "Contact",
