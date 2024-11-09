@@ -9,7 +9,7 @@ const Action = () => {
                         <h3 className='text-white font-normal mb-5 sm:mb-0'>
                         Organiser des évènements professionnels !
                         </h3>
-                        <Link href={''} className='bg-blue-400 text-white py-3 px-4 text-sm md:text-[17px]'>
+                        <Link href={'/devis'} className='bg-blue-400 text-white py-3 px-4 text-sm md:text-[17px]'>
                               Demander un devis gratuitement
                         </Link>
                   </div>

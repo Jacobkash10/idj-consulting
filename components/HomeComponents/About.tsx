@@ -9,7 +9,7 @@ const About = () => {
                   <hr className='w-[50px] mt-2 text-lg border-[1.5px] border-slate-400' />
                   <h5 className='font-semibold text-3xl'>pour tous vos événements</h5>
             </div>
-            <div className='px-7 md:px-22 lg:px-32 mt-10'>
+            <div className='px-0 md:px-22 lg:px-32 mt-10'>
                   <p className='text-[16px] leading-relaxed font-light max-w-4xl'>
                         IDJ Consulting, agence événementielle à Paris, gère de façon globale l’organisation de vos événements et s’entoure 
                         de prestataires de qualité tels que équipe technique, chorégraphe, artiste, créatifs... Pour vos séminaires, 

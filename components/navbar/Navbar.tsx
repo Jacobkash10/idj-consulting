@@ -38,7 +38,7 @@ const Navbar = () => {
       </div>
       <NavMobile />
       <div className='flex flex-col justify-center items-center bg-black mt-14 py-5 lg:hidden'>
-        <div className='lg:hidden w-[8%] md:w-[10%]'>
+        <div className='lg:hidden w-[16%] sm:w-[12%] md:w-[12%]'>
           <Link className='text-white text-xs' href={'/'}>
             <Image src={image1} alt='image1' priority width={0} height={0} sizes='100vw' className='w-full' />
           </Link>

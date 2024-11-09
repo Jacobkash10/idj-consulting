@@ -27,6 +27,9 @@ const config: Config = {
 			'bg4': "url('../public/images/defi.jpg')",
 			'bg5': "url('../public/images/scenographie.png')",
 			'bg6': "url('../public/images/commu.jpg')",
+			'bgEv': "url('../public/images/event.jpeg')",
+			'bgSc': "url('../public/images/scene.jpg')",
+			'bgCo': "url('../public/images/comm.jpg')",
 		    },
   		colors: {
   			background: 'hsl(var(--background))',

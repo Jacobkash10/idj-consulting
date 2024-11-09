@@ -26,7 +26,7 @@ const Accompagnement = () => {
                   </h5>
                   <hr className='w-[50px] mt-3 text-lg border-[1.5px] border-slate-400' />
             </div>
-            <div className='px-4 md:px-10 lg:px-16'>
+            <div className='px-1 md:px-10 lg:px-16'>
                   <div className='block md:flex items-start gap-20 mt-10'>
                         <div className=''>
                               <p className='font-light text-base'>

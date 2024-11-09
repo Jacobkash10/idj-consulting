@@ -22,7 +22,7 @@ const CreateEvent = () => {
       </div>
       <div className='grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 mt-10'>
             <div>
-                  <Link href={'/'}>
+                  <Link href={'/evenement'}>
                         <div className='w-full h-[24rem]'>
                                     <Image src={image1} alt='image1' priority width={0} height={0} sizes='100vw'
                                     className='w-full h-full object-cover'/>
@@ -35,7 +35,7 @@ const CreateEvent = () => {
                   </Link>
             </div>
             <div>
-                  <Link href={'/'}>
+                  <Link href={'/scenographie'}>
                         <div className='w-full h-[24rem]'>
                                     <Image src={image2} alt='image1' priority width={0} height={0} sizes='100vw'
                                     className='w-full h-full object-cover'/>
@@ -48,7 +48,7 @@ const CreateEvent = () => {
                   </Link>
             </div>
             <div>
-                  <Link href={'/'}>
+                  <Link href={'/communication'}>
                         <div className='w-full h-[24rem]'>
                                     <Image src={image3} alt='image1' priority width={0} height={0} sizes='100vw'
                                     className='w-full h-full object-cover'/>

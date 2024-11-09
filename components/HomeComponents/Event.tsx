@@ -38,7 +38,7 @@ const Event = () => {
             </div>
             <div className='w-full lg:w-[30%] bg-gray-200 px-5 py-16'>
                   <h2 className='uppercase font-medium text-[24px] md:text-[34px]'>Nos réalisations <br />évènementielles</h2>
-                  <ul className='mt-5 list-disc list-inside font-light text-[16.5px]'>
+                  <ul className='mt-5 list-disc font-light text-[16.5px] px-5'>
                         <li className='mb-5'>
                               Organiser <span className='font-semibold'>une convention ou un congrès</span> pour annoncer vos dernières nouveautés
                         </li>

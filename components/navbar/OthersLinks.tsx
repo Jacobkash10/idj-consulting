@@ -146,7 +146,7 @@ const OthersLinks = () => {
             <NavigationMenuList>
                   <NavigationMenuItem>
                         <div className='flex items-center gap-2'>
-                              <Link href={''} className='text-white text-[16px] font-semibold'>
+                              <Link href={'/realisations'} className='text-white text-[16px] font-semibold'>
                                     Réalisations <hr className='w-[40px] mt-1 text-lg border-[1.5px]' />
                               </Link>
                         </div>
