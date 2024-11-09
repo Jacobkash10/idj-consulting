@@ -84,7 +84,7 @@ const NavMobile = () => {
             ${open ? 'top-[3.8rem] bg-[#393737] min-h-fit left-0 bottom-0 right-0 z-50 transition-all duration-500 ease-in-out' 
             : 'left-[-800px]'}`}
       >
-            <div className="flex flex-col items-start justify-start overflow-y-auto h-[550px] pb-4">
+            <div className="flex flex-col items-start justify-start overflow-y-auto h-screen pb-4">
                   {links.map((link, index) => (
                         <Link
                         key={index} href={link.path} className={`${link.path === pathName && "text-white bg-[#222121]"}

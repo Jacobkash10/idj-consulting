@@ -34,7 +34,7 @@ const Banner = () => {
         className="mySwiper w-full h-screen"
       >
         <SwiperSlide>
-            <div className='bg-bg1 relative bg-no-repeat bg-cover z-0 h-full'>
+            <div className='bg-bg1 relative bg-no-repeat bg-cover z-0 h-screen'>
                   <div className='w-full flex items-center flex-col justify-center relative top-0 left-0 h-full z-10 bg-black/70'>
                         <h1 className='text-white text-[30px] md:text-[40px] lg:text-[55px] font-medium mt-28 text-center max-w-sm md:max-w-xl leading-[1.15]'>
                               Une scénographie événementielle

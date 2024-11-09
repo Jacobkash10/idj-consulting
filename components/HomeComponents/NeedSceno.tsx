@@ -8,7 +8,7 @@ const NeedSceno = () => {
             <div className='px-5 md:px-10 lg:px-20'>
                   <div className='bg-gray-200 shadow-[15px_15px_0px_0px_rgb(240,242,250)]'>
                         <div className='py-10'>
-                              <div className='flex flex-col items-center justify-center'>
+                              <div className='flex flex-col items-center justify-center px-3'>
                                     <h4 className='text-xl md:text-[27px] font-light'>
                                           Vous avez un besoin en <span className='text-slate-400 text-[22px] font-light'>scénographie ?</span> Lancez vous !
                                     </h4>

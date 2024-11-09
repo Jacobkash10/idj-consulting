@@ -102,7 +102,7 @@ const Sceno = () => {
                   Même les plus inadaptés ou innappropriés.
             </p>
             <Link href={""} className='bg-gray-500 text-white px-4 py-3 text-sm md:text-base'>
-                  Découvrez nos transformations de lieux avant et après en image
+                  Découvrez nos transformations
             </Link>
       </div>
     </div>
