@@ -4,7 +4,7 @@ import image1 from '@/public/images/micro.png'
 
 const Event = () => {
   return (
-    <div className='px-5 md:px-10 lg:px-20 pt-[80px] pb-[50px]'>
+    <div className='px-5 md:px-10 lg:px-20 pt-[80px] pb-[50px] xxl:px-[10rem] xll:px-[20rem] xxx:px-[22%] lll:px-[25%]'>
       <div className='block lg:flex items-start justify-between'>
             <div className='w-full lg:w-[70%]'>
                   <div className='flex flex-col items-center justify-center'>

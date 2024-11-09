@@ -7,7 +7,7 @@ import { FaFacebook, FaInstagram, FaLinkedin, FaTwitter, FaYoutube } from 'react
 
 const Footer = () => {
   return (
-    <footer className='bg-[#1c1b1b] px-5 md:px-10 lg:px-20 py-8'>
+    <footer className='bg-[#1c1b1b] px-5 md:px-10 lg:px-20 py-8 xxl:px-[10rem] xll:px-[20rem] xxx:px-[22%] lll:px-[25%]'>
       <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 md:gap-14 lg:gap-20'>
             <div>
                   <div className='w-[50%]'>

@@ -4,7 +4,7 @@ import React from 'react'
 
 const Contact = () => {
   return (
-    <div className='px-5 md:px-10 lg:px-20 mt-[100px]'>
+    <div className='px-5 md:px-10 lg:px-20 mt-[100px] xxl:px-[10rem] xll:px-[20rem] xxx:px-[22%] lll:px-[25%]'>
       <div>
             <h2 className='text-[34px] md:text-[44px] mb-10 font-light text-gray-500'>
                   Contacter IDJ Consulting

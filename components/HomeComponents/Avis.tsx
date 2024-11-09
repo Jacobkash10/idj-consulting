@@ -17,7 +17,7 @@ import { FaStar } from 'react-icons/fa'
 
 const Avis = () => {
   return (
-      <div className='px-20 pt-10 pb-10'>
+      <div className='px-20 pt-10 pb-10 xxl:px-[10rem] xll:px-[20rem] xxx:px-[22%] lll:px-[25%]'>
             <div className='flex flex-col items-center justify-center'>
                   <h2 className='text-2xl md:text-[34px] lg:text-[44px] font-light'>
                   Les derniers <span className='text-slate-400 text-lg md:text-2xl'>avis</span>

@@ -5,7 +5,7 @@ import Image from 'next/image'
 
 const CommEvent = () => {
   return (
-      <div className='px-5 md:px-10 lg:px-20 pt-[10px] pb-10'>
+      <div className='px-5 md:px-10 lg:px-20 pt-[10px] pb-10 xxl:px-[10rem] xll:px-[20rem] xxx:px-[22%] lll:px-[25%]'>
             <div className='block lg:flex items-start mt-16'>
                   <div className='w-full lg:w-[40%]'>
                         <div className='w-full h-[32.5rem]'>

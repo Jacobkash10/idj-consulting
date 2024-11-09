@@ -8,7 +8,7 @@ import { ChevronDown } from 'lucide-react'
 
 const Type = () => {
   return (
-    <div className='px-5 md:px-10 lg:px-20 pt-[80px] pb-10'>
+    <div className='px-5 md:px-10 lg:px-20 pt-[80px] pb-10 xxl:px-[10rem] xll:px-[20rem] xxx:px-[22%] lll:px-[25%]'>
       <div className='flex flex-col items-center justify-center'>
             <h2 className='text-2xl md:text-[46px] font-light'>
                   Quel type d'événement <span className='text-slate-400 text-[25px] font-light'>pour vous ?</span>

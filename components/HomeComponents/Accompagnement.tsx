@@ -19,7 +19,7 @@ const Accompagnement = () => {
           )
 
   return (
-      <div className='px-5 md:px-10 lg:px-20 mt-[500px]'>
+      <div className='px-5 md:px-10 lg:px-20 mt-[500px] xxl:px-[10rem] xll:px-[20rem] xxx:px-[22%] lll:px-[25%]'>
             <div>
                   <h5 className='mt-10 text-2xl md:text-3xl font-light'>
                   Un accompagnement stratégique et opérationnel de nos clients

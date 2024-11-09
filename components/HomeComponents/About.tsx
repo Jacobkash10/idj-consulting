@@ -3,7 +3,7 @@ import React from 'react'
 const About = () => {
   return (
     <div className='pt-10'>
-      <div className='px-5 md:px-12'>
+      <div className='px-5 md:px-12 xxl:px-[10rem] xll:px-[20rem] xxx:px-[22%] lll:px-[25%]'>
             <h2 className='text-[18px] md:text-[26px] lg:text-[34px] font-light'>IDJ Consulting, Agence événementielle à Kinshasa</h2>
             <div className='flex items-center gap-2'>
                   <hr className='w-[50px] mt-2 text-lg border-[1.5px] border-slate-400' />

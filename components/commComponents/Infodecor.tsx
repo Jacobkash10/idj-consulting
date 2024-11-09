@@ -5,7 +5,7 @@ import Image from 'next/image'
 
 const InfoDecor = () => {
   return (
-      <div className='px-5 md:px-10 lg:px-20 pt-[10px] pb-10'>
+      <div className='px-5 md:px-10 lg:px-20 pt-[10px] pb-10 xxl:px-[10rem] xll:px-[20rem] xxx:px-[22%] lll:px-[25%]'>
             <div className='block lg:flex items-start mt-16'>
                   <div className='w-full lg:w-[60%]'>
                         <div className='px-10 bg-white shadow-lg pt-14 pb-24'>

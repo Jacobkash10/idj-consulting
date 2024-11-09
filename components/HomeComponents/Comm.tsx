@@ -5,7 +5,7 @@ import Image from 'next/image'
 const Comm = () => {
   return (
       <div className='pt-[450px] pb-[70px]'>
-            <div className='px-5 md:px-10 lg:px-20'>
+            <div className='px-5 md:px-10 lg:px-20 xxl:px-[10rem] xll:px-[20rem] xxx:px-[22%] lll:px-[25%]'>
                   <div className='flex flex-col items-center justify-center'>
                         <h4 className='text-xl md:text-[27px] font-light text-slate-400'>
                               Communication

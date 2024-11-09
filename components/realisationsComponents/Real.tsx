@@ -7,7 +7,7 @@ import image3 from '@/public/images/comm.jpg'
 
 const Real = () => {
   return (
-      <div className='px-5 md:px-10 lg:px-20 pt-[100px] pb-10'>
+      <div className='px-5 md:px-10 lg:px-20 pt-[100px] pb-10 xxl:px-[10rem] xll:px-[20rem] xxx:px-[22%] lll:px-[25%]'>
             <div className='flex flex-col items-center justify-center'>
                   <h2 className='text-2xl md:text-[46px] font-light'>
                   Réalisations événementielles et de communication

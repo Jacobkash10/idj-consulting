@@ -5,7 +5,7 @@ import React from 'react'
 const Ready = () => {
   return (
       <div className='relative'>
-            <div className='px-5 md:px-10 lg:px-20'>
+            <div className='px-5 md:px-10 lg:px-20 xxl:px-[10rem] xll:px-[20rem] xxx:px-[22%] lll:px-[25%]'>
                   <div className='bg-gray-200 shadow-[15px_15px_0px_0px_rgb(240,242,250)]'>
                         <div className='py-10'>
                               <div className='flex flex-col items-center justify-center px-3'>

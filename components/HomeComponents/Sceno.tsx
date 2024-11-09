@@ -20,7 +20,7 @@ const Sceno = () => {
           )
 
   return (
-    <div className='px-5 md:px-10 lg:px-20 pt-[450px] pb-[70px]'>
+    <div className='px-5 md:px-10 lg:px-20 pt-[450px] pb-[70px] xxl:px-[10rem] xll:px-[20rem] xxx:px-[22%] lll:px-[25%]'>
       <div className='flex flex-col items-center justify-center'>
             <h4 className='text-xl md:text-[27px] font-light text-slate-400'>
                   Scénographie

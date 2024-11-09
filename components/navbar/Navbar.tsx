@@ -30,8 +30,10 @@ const Navbar = () => {
       <div
         className={`z-40 transition-all duration-300 ${
           isSticky
-            ? 'fixed top-0 left-0 right-0 bg-[#1c1b1b] shadow-lg px-10 xl:px-20'
-            : 'absolute top-0 left-10 xl:left-20 right-10 xl:right-20 bg-transparent'
+            ? `fixed top-0 left-0 right-0 bg-[#1c1b1b] shadow-lg px-10 xl:px-20 xxl:px-[10rem] xll:px-[20rem] xxx:px-[22%] lll:px-[25%]`
+            : `absolute top-0 left-10 xl:left-20 right-10 xl:right-20 bg-transparent 
+            xxl:left-[10rem] xll:left-[20rem] xxx:left-[22%] lll:left-[25%] 
+            xxl:right-[10rem] xll:right-[20rem] xxx:right-[22%] lll:right-[25%]`
         }`}
       >
         <NavNormal />

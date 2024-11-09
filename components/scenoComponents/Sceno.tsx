@@ -9,7 +9,7 @@ import Action from './Action'
 
 const Sceno = () => {
   return (
-      <div className='px-5 md:px-10 lg:px-20 pt-[100px] pb-10 relative'>
+      <div className='px-5 md:px-10 lg:px-20 pt-[100px] pb-10 relative xxl:px-[10rem] xll:px-[20rem] xxx:px-[22%] lll:px-[25%]'>
             <Action />
             <div className='flex flex-col items-center justify-center mt-[100px]'>
                   <h2 className='text-2xl md:text-[46px] font-light'>
